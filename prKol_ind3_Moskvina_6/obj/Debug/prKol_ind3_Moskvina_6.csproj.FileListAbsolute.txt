@@ -1,0 +1,10 @@
+C:\Users\emosk\Downloads\prKol_ind3_Pavlov-main\prKol_ind3_Pavlov-main\prKol_ind3_Moskvina_6\bin\Debug\prKol_ind3_Pavlov6.exe.config
+C:\Users\emosk\Downloads\prKol_ind3_Pavlov-main\prKol_ind3_Pavlov-main\prKol_ind3_Moskvina_6\bin\Debug\prKol_ind3_Pavlov6.exe
+C:\Users\emosk\Downloads\prKol_ind3_Pavlov-main\prKol_ind3_Pavlov-main\prKol_ind3_Moskvina_6\bin\Debug\prKol_ind3_Pavlov6.pdb
+C:\Users\emosk\Downloads\prKol_ind3_Pavlov-main\prKol_ind3_Pavlov-main\prKol_ind3_Moskvina_6\obj\Debug\prKol_ind3_Moskvina_6.csproj.AssemblyReference.cache
+C:\Users\emosk\Downloads\prKol_ind3_Pavlov-main\prKol_ind3_Pavlov-main\prKol_ind3_Moskvina_6\obj\Debug\prKol_ind3_Moskvina_6.Form1.resources
+C:\Users\emosk\Downloads\prKol_ind3_Pavlov-main\prKol_ind3_Pavlov-main\prKol_ind3_Moskvina_6\obj\Debug\prKol_ind3_Pavlov6.Properties.Resources.resources
+C:\Users\emosk\Downloads\prKol_ind3_Pavlov-main\prKol_ind3_Pavlov-main\prKol_ind3_Moskvina_6\obj\Debug\prKol_ind3_Moskvina_6.csproj.GenerateResource.cache
+C:\Users\emosk\Downloads\prKol_ind3_Pavlov-main\prKol_ind3_Pavlov-main\prKol_ind3_Moskvina_6\obj\Debug\prKol_ind3_Moskvina_6.csproj.CoreCompileInputs.cache
+C:\Users\emosk\Downloads\prKol_ind3_Pavlov-main\prKol_ind3_Pavlov-main\prKol_ind3_Moskvina_6\obj\Debug\prKol_ind3_Pavlov6.exe
+C:\Users\emosk\Downloads\prKol_ind3_Pavlov-main\prKol_ind3_Pavlov-main\prKol_ind3_Moskvina_6\obj\Debug\prKol_ind3_Pavlov6.pdb
